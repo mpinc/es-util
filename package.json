@@ -1,0 +1,13 @@
+{
+    "name": "es-util module",
+    "version": "0.0.1",
+    "description": "mission public es-util module",
+    "main": "index.js",
+    "dependencies": {
+        "log4js": "0.6.32",
+        "seq": "0.3.5",
+        "elasticsearch": "*"
+    },
+    "author": "mission public",
+    "license": ""
+}
