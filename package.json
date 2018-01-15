@@ -7,7 +7,8 @@
         "log4js": "0.6.32",
         "seq": "0.3.5",
         "extend": "*",
-        "elasticsearch": "*"
+        "elasticsearch": "*",
+        "async": "*"
     },
     "author": "mission public",
     "license": ""
