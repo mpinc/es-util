@@ -1,5 +1,5 @@
 {
-    "name": "es-util",
+    "name": "mp-es-util",
     "version": "0.0.1",
     "description": "mission public es-util module",
     "main": "index.js",
